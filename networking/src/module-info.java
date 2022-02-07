@@ -1,0 +1,3 @@
+module networking {
+    requires base;
+}
